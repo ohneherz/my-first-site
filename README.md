@@ -1,1 +1,1 @@
-# my-frirst-site
+# my-first-site
